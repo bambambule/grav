@@ -1,5 +1,5 @@
 ---
-title: Classic Modern Architecture
+title: Bam! Bam! Bule! Bambule!! with more bam!
 date: 17:34 06/27/2014 
 taxonomy:
     category: blog
