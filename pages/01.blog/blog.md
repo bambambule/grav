@@ -22,5 +22,5 @@ feed:
 pagination: true
 ---
 
-# My Gravtastic Blog
+# My Gravtastic Blog, Fuck Yeah!
 ## A tale of **awesomazing** adventures
