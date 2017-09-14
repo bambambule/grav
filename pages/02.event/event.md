@@ -8,7 +8,7 @@ sitemap:
     priority: 1.03
 
 content:
-    items: @self.siblings
+    items: @self.children
     order:
         by: date
         dir: desc
