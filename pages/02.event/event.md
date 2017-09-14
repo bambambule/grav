@@ -12,7 +12,7 @@ content:
     order:
         by: date
         dir: desc
-    limit: 5
+    limit: 50
     pagination: true
 
 feed:
@@ -24,3 +24,5 @@ pagination: true
 
 # Here are some events
 ## Hope this works!
+items: @self.children
+items: @page.descendants:'/event/events'
