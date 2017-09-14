@@ -2,7 +2,6 @@
 ---
 title: Abendradtour Abschlussgrillen
 slug: abendradtour-abschlussgrillen
-menu: Events
 start_time: 2017-09-27T19:30:00+0200
 end_time: 2017-09-27T23:00:00+0200
 template: event
